@@ -1,0 +1,1 @@
+# generative_ai-pdf-library-JP-2026
